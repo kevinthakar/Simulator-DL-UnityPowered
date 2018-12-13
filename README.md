@@ -1,3 +1,5 @@
+The project aims at trying to simulate a driverless-car-like behaviour in a known environment, using the open-source simulator available. It trains the model using images, which it gains from its virtual cameras in the manual mode of the simulator. These images teach the software to simulate driverless-like behaviour based on the responses saved in the maual mode.
+
 # How_to_simulate_a_self_driving_car
 
 ## Overview
